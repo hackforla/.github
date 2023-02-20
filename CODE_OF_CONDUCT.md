@@ -6,18 +6,18 @@ This document is forked from the [The Code for America Code of Conduct](https://
 
 Hack for LA expects that all network activities, events, and digital forums:
 
-1. Are a safe and respectful environment for all participants.
-1. Are a place where people are free to fully express their identities.
-1. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
-1. Don’t assume everyone has the same context, and encourage questions.
-1. Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
-1. Encourage members and participants to listen as much as they speak.
-1. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
-1. Prioritize access for and input from those who are traditionally excluded from the civic process.
-1. Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups.
-1. Actively involve community groups and those with subject matter expertise in the decision-making process.
-1. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
-1. Provide an environment where people are free from discrimination or harassment.
+- Are a safe and respectful environment for all participants.
+- Are a place where people are free to fully express their identities.
+- Presume the value of others. Everyone’s ideas, skills, and contributions have value.
+- Don’t assume everyone has the same context, and encourage questions.
+- Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
+- Encourage members and participants to listen as much as they speak.
+- Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
+- Prioritize access for and input from those who are traditionally excluded from the civic process.
+- Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups.
+- Actively involve community groups and those with subject matter expertise in the decision-making process.
+- Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
+- Provide an environment where people are free from discrimination or harassment.
 
 Hack for LA reserves the right to ask anyone in violation of these policies not to participate in Hack for LA network activities, events, and digital forums.
 
